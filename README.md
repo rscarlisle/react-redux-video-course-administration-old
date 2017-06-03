@@ -37,3 +37,33 @@ README.md
 
 ./api/products/products.json
 ```
+
+**How to Run Project**
+----------------------
+1. Required operating system - OSX
+
+2. Fork/clone project to local system
+
+3. cd into project folder
+
+4. [run] npm start
+
+5. in browser, [enter] http://localhost:8080
+
+6. quick-start login: new-user & password123
+
+
+
+**Basic Overview of Project**
+----------------------
+Basic description of project...
+
+
+
+**Bugs**
+----------------------
+1. first bug description
+
+2. second bug description
+
+
