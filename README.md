@@ -145,6 +145,8 @@ A comprehensive collection of technologies, offering a rich development experien
 
 **Future Enhancements**
 ----------------------
+* https://react.semantic-ui.com/introduction
+
 * to add Redux - Functional State Management
 
 * Web Accessibility – WAI-ARIA
