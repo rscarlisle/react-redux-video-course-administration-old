@@ -67,3 +67,14 @@ Basic description of project...
 2. second bug description
 
 
+**Future Enhancements**
+----------------------
+* to add Redux - Functional State Management
+
+* Web Accessibility – WAI-ARIA
+
+* Database: Mongo, Cassandra, Redis
+
+* Webpack, ESLint, NPM scripts
+
+* Test Driven Development: Mocha, Jasmine
